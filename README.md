@@ -1,4 +1,4 @@
-# NBA_Data_Playgraound
+# NBA_Data_Playground
 NBA Player Shooting Map &amp; Career Life Distribution of Playoff Teams
 
 This repository is a playground of NBA shot-logs data using *R*.
