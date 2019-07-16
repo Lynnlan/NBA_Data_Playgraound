@@ -2,7 +2,9 @@
 NBA Player Shooting Map &amp; Career Life Distribution of Playoff Teams
 
 This repository is a playground of NBA shot-logs data using *R*.
-Will be actively updated with small, simple but interesting functions for data analysis and visulizations.
+Will be actively updated with small, simple but interesting functions for data analysis and visualizations.
+
+The goal is to keep practicing R for data analysis and visualizations combined with my interests in basketball games. 
 
 The datasets used in this project are from Kaggle.
 * https://www.kaggle.com/boonpalipatana/nba-playoff-shots-2018
